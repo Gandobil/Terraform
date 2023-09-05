@@ -10,3 +10,5 @@ resource "aws_instance" "app_server2" {
     Product = var.product
   }
 }
+
+# This is alocating server name and description
